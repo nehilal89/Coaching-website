@@ -1,0 +1,91 @@
+h1 {
+  text-align: center;
+  font-size: 70px;
+  color: rgb(16, 16, 17);
+  font-family: Brush Script MT;
+  line-height: 100%;
+}
+
+h2 {
+  text-align: center;
+  color: rgb(8, 8, 8);
+  font-family: Brush Script MT;
+  font-weight: bold;
+  font-size: 50px;
+  padding: 20px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.img1 {
+  padding: 30px;
+}
+
+.img2 {
+  padding: 10px;
+}
+
+p {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: rgba(15, 15, 14, 0.959);
+  padding: 20px;
+}
+
+.p2 {
+  color: black;
+  font-family: papyrus;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  font-size: 25px;
+  background-color: gray;
+  font-weight: bold;
+  border-radius: 25px;
+  box-shadow: 0 8px 16px 0 black, 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 30px 5px;
+}
+
+.btn:hover {
+  transition-duration: 0.4s;
+  background-color: #4caf50; /* Green */
+  color: white;
+}
+
+.card {
+  display: block;
+  margin: 0 auto;
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(177, 14, 122);
+  line-height: 100%;
+}
+
+a {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(75, 175, 92);
+}
+
+.footer {
+  font-weight: bold;
+  font-family: papyrus;
+}
+
+.podcast {
+  display: block;
+  margin: 0 auto;
+  font-size: 25px;
+  font-weight: bold;
+  color: rgb(197, 9, 9);
+  line-height: 100%;
+  padding: 60px 5px;
+}
